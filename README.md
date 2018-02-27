@@ -1,4 +1,4 @@
-# HOgit 1
+# HOgit 1- charlas
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
